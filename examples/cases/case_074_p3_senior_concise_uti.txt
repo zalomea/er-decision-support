@@ -1,0 +1,13 @@
+Patient: 52yo female
+CC: Dysuria and urinary frequency
+HPI: The patient presents with 3 days of dysuria, urinary frequency, and urgency. Suprapubic discomfort. No fever or flank pain. Sexually active.
+VS: BP 137/77, HR 87, RR 20, SpO2 97, T 37.5
+PE: - General: Well-appearing
+- Cardiovascular: Normal
+- Abdomen: Suprapubic tenderness
+- Genitourinary: No discharge
+Urinalysis: Positive leukocytes, nitrites, bacteria
+Urine culture: Pending
+PMH: Recurrent UTIs (3 in past year)
+Meds: None.
+Allergies: No known drug allergies

@@ -1,0 +1,12 @@
+Patient: 24yo male
+CC: Left leg swelling and pain
+HPI: The patient presents with 4 days of progressive left calf swelling, pain, and warmth. Recent surgery (knee arthroscopy) 2 weeks ago. Immobilized for 1 week post-op.
+VS: BP 112/77, HR 90, RR 21, SpO2 97, T 37.8
+PE: - General: Well-appearing
+- Cardiovascular: Normal
+- Extremities: Left calf swelling (3cm difference), tenderness, Homans sign positive
+D-dimer: 1200
+US Doppler: Left popliteal vein thrombosis
+PMH: Obesity, recent knee surgery
+Meds: Ibuprofen, acetaminophen
+Allergies: No known drug allergies

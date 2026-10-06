@@ -1,0 +1,9 @@
+S: 73yo male with Chest tightness and palpitations. The patient presents with 1 hour of chest tightness, palpitations, and feeling of impending doom. Hyperventilating. Similar episodes in the past, triggered by stress. No radiation or diaphoresis.
+O: Vitals: BP 117/78, HR 66, RR 14, SpO2 97%, T 36.9C. PE: - General: Anxious, hyperventilating
+- Cardiovascular: Tachycardic, regular rhythm
+- Respiratory: Clear lungs
+- Neurological: No focal deficits ECG: Sinus tachycardia, no ischemic changes
+Troponin: Negative
+ABG: Respiratory alkalosis
+A: Anxiety disorder, panic attacks
+P: Continue current management. Meds: Sertraline. Allergies: No known drug allergies

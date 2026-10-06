@@ -1,0 +1,23 @@
+Patient: 44-year-old female
+Chief Complaint: Itchy rash on both hands
+
+History of Present Illness:
+The patient presents with 1 week of pruritic rash on both hands. Works as a hairdresser. Worse after work. No fever or systemic symptoms. Previous episodes.
+
+Vital Signs:
+- BP: 126/80
+- HR: 78
+- RR: 20
+- SpO2: 96
+- Temp: 36.6
+
+Physical Examination:
+- General: Well-appearing
+- Skin: Erythematous, scaly, lichenified plaques on dorsal hands, no vesicles or oozing
+
+No labs indicated
+Diagnosis: Contact dermatitis (irritant)
+
+Past Medical History: Atopic dermatitis (childhood)
+Medications: Hydrocortisone cream (OTC)
+Allergies: No known drug allergies

@@ -1,0 +1,13 @@
+Pt: 36yo male
+CC: Sudden left-sided weakness
+HPI: The patient witnessed to have sudden onset left-sided weakness and facial droop 3 hours ago while eating breakfast. Last seen normal 3.5 hours ago. No trauma.
+VS: 104/68/114/26/90/39.1
+PE: - General: Alert, oriented
+- Cardiovascular: Atrial fibrillation on monitor
+- Neurological: Left facial droop, left arm/leg weakness (NIHSS 12), dysarthria
+CT Head: No hemorrhage
+CT Angio: Right MCA occlusion
+Glucose: 145 mg/dL
+PMH: Atrial fibrillation (not anticoagulated), hypertension
+Meds: Metoprolol, amlodipine
+Allergies: No known drug allergies

@@ -1,0 +1,11 @@
+- Patient: 53yo female
+- CC: Right ankle pain after twisting injury
+- HPI: The patient presents with right ankle pain after twisting injury while playing basketball 2 hours ago. Able to bear weight with difficulty. Swelling and bruising developing.
+- VS: BP 113/71 | HR 79 | RR 15 | SpO2 98 | Temp 36.7
+- PE: - General: Mild distress
+- Extremities: Right ankle swelling, tenderness over lateral malleolus, no bony tenderness, full range of motion with pain
+- Workup: X-ray Right Ankle: No fracture (Ottawa rules negative)
+No ligamentous instability
+- PMH: None
+- Meds: None
+- Allergies: No known drug allergies

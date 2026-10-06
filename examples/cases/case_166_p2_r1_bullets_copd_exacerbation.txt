@@ -1,0 +1,14 @@
+* 34yo male
+* CC: Worsening shortness of breath
+* HPI: The patient presents with 3 days of worsening dyspnea, increased sputum production, and wheezing. Using rescue inhaler every 2 hours with minimal relief. Unable to sleep due to breathlessness.
+* VS: 110/73 / 116 / 27 / 90 / 38.3
+* PE: - General: Respiratory distress, using accessory muscles
+- Cardiovascular: Tachycardic
+- Respiratory: Bilateral wheezing, prolonged expiratory phase
+* Workup: ABG: pH 7.32, pCO2 58, pO2 65
+CXR: Hyperinflation, no pneumonia
+Peak flow: 40% of personal best
+* PMH: COPD (GOLD III), home oxygen
+* Meds: Albuterol, tiotropium, prednisone
+* Allergies: No known drug allergies
+* Social: Smoker (50 pack-years), on home O2

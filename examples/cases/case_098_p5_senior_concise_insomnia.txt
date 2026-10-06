@@ -1,0 +1,11 @@
+Patient: 81yo female
+CC: Difficulty sleeping for 2 weeks
+HPI: The patient presents with 2 weeks of difficulty falling and staying asleep. Fatigue during day. No snoring or witnessed apneas. Stress at work. Drinks coffee in afternoon.
+VS: BP 129/61, HR 66, RR 14, SpO2 98, T 37.1
+PE: - General: Well-appearing, tired
+- Neurological: No focal deficits
+No labs indicated
+Diagnosis: Acute insomnia
+PMH: None.
+Meds: None.
+Allergies: No known drug allergies

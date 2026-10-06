@@ -1,0 +1,27 @@
+Patient: 54-year-old male
+Chief Complaint: Continuous seizure activity
+
+History of Present Illness:
+The patient witnessed to have continuous tonic-clonic seizure activity for 25 minutes. Multiple seizures without regaining consciousness between episodes. EMS administered lorazepam 2mg IV with partial response.
+
+Vital Signs:
+- BP: 72/53
+- HR: 126
+- RR: 40
+- SpO2: 83
+- Temp: 39.4
+
+Physical Examination:
+- General: Post-ictal, minimally responsive
+- Cardiovascular: Tachycardic
+- Respiratory: Gurgling, requires airway support
+- Neurological: No purposeful movement
+
+Glucose: 110 mg/dL
+Lactate: 4.2
+CT Head: Pending
+EEG: Pending
+
+Past Medical History: Epilepsy (poorly controlled)
+Medications: Levetiracetam (non-compliant)
+Allergies: No known drug allergies

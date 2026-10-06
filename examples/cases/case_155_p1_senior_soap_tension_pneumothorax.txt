@@ -1,0 +1,8 @@
+S: 42yo female with Sudden chest pain and severe dyspnea. The patient presents with sudden onset right-sided chest pain and severe shortness of breath 1 hour ago while climbing stairs. Pain is sharp, pleuritic. Rapidly worsening dyspnea.
+O: Vitals: BP 81/60, HR 129, RR 31, SpO2 83%, T 38.8C. PE: - General: Severe respiratory distress
+- Cardiovascular: Tachycardic, hypotensive
+- Respiratory: Absent breath sounds right side, hyperresonance to percussion
+- Trachea: Deviated to left CXR: Right tension pneumothorax with mediastinal shift
+ABG: pH 7.28, pCO2 50, pO2 60
+A: COPD, emphysema
+P: Continue current management. Meds: Albuterol, tiotropium. Allergies: No known drug allergies

@@ -1,0 +1,7 @@
+S: 70yo female with Sore throat for 2 days. The patient presents with 2 days of sore throat, worse with swallowing. No fever, cough, or rhinorrhea. No difficulty breathing or drooling.
+O: Vitals: BP 115/63, HR 65, RR 14, SpO2 100%, T 36.9C. PE: - General: Well-appearing
+- ENT: Mild pharyngeal erythema, no exudates, no tonsillar enlargement
+- Neck: No lymphadenopathy Rapid strep: Negative
+Centor score: 1
+A: None.
+P: Continue current management. Meds: None.. Allergies: No known drug allergies

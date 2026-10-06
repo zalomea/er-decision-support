@@ -1,0 +1,12 @@
+- Patient: 47yo male
+- CC: Request for medication refill
+- HPI: The patient presents for refill of lisinopril 10mg for hypertension. No complaints. BP well-controlled. Last seen 6 months ago. Ran out of medication 1 week ago.
+- VS: BP 129/68 | HR 78 | RR 12 | SpO2 98 | Temp 36.7
+- PE: - General: Well-appearing
+- Cardiovascular: Regular rhythm, no murmurs
+- BP: 128/82
+- Workup: No labs indicated
+Stable chronic condition
+- PMH: Hypertension (well-controlled)
+- Meds: Lisinopril 10mg (refill requested)
+- Allergies: No known drug allergies

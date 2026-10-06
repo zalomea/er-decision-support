@@ -1,0 +1,15 @@
+- Patient: 89yo male
+- CC: Continuous seizure activity
+- HPI: The patient witnessed to have continuous tonic-clonic seizure activity for 25 minutes. Multiple seizures without regaining consciousness between episodes. EMS administered lorazepam 2mg IV with partial response.
+- VS: BP 80/41 | HR 134 | RR 28 | SpO2 87 | Temp 39.3
+- PE: - General: Post-ictal, minimally responsive
+- Cardiovascular: Tachycardic
+- Respiratory: Gurgling, requires airway support
+- Neurological: No purposeful movement
+- Workup: Glucose: 110 mg/dL
+Lactate: 4.2
+CT Head: Pending
+EEG: Pending
+- PMH: Epilepsy (poorly controlled)
+- Meds: Levetiracetam (non-compliant)
+- Allergies: No known drug allergies

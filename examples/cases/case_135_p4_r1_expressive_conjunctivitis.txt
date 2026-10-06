@@ -1,0 +1,24 @@
+Patient: 27-year-old male
+Chief Complaint: Redness and discharge in right eye
+
+History of Present Illness:
+The patient presents with 2 days of right eye redness, itching, and purulent discharge. Worse in morning with eyelids stuck together. No vision changes. Left eye now affected.
+
+Vital Signs:
+- BP: 120/84 mmHg
+- HR: 74 bpm
+- RR: 14 breaths/min
+- SpO2: 97% on room air
+- Temp: 36.8°C
+
+Physical Examination:
+- General: Well-appearing
+- Eyes: Bilateral conjunctival injection, purulent discharge, no corneal involvement, visual acuity normal
+
+No labs indicated
+Diagnosis: Bacterial conjunctivitis
+
+Past Medical History: None
+Medications: None
+Allergies: No known drug allergies
+Social History: Contact lens wearer, poor hygiene

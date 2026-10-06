@@ -1,0 +1,7 @@
+S: 19yo female presents with Severe headache with visual aura. The patient presents with 6 hours of severe right-sided throbbing headache preceded by visual aura (scintillating scotoma). Photophobia and phonophobia. Nausea. History of similar headaches.
+O: Vitals: 136/85, 88, 21, 96%, 38.0C. Exam: - General: Appears uncomfortable, prefers dark room
+- Cardiovascular: Normal
+- Neurological: No focal deficits, fundi normal CT Head: Normal (performed due to first severe episode)
+No labs indicated
+A: PMH: Migraine with aura (since adolescence)
+P: Plan: Meds: Sumatriptan (OTC). Allergies: No known drug allergies. Social: High stress job, poor sleep

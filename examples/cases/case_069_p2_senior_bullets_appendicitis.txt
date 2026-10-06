@@ -1,0 +1,12 @@
+- Patient: 32yo male
+- CC: Right lower quadrant abdominal pain
+- HPI: The patient presents with 18 hours of periumbilical pain that migrated to the right lower quadrant. Associated with nausea, vomiting, and anorexia. Low-grade fever.
+- VS: BP 99/63 | HR 118 | RR 22 | SpO2 92 | Temp 38.6
+- PE: - General: Appears uncomfortable, lying still
+- Cardiovascular: Tachycardic
+- Abdomen: RLQ tenderness, guarding, positive Rovsing's sign
+- Workup: WBC: 14,000
+CT Abdomen: Appendicolith, dilated appendix (12mm), fat stranding
+- PMH: None
+- Meds: None
+- Allergies: No known drug allergies

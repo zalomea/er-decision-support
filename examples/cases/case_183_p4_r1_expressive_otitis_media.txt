@@ -1,0 +1,25 @@
+History of Present Illness:
+The patient presents with 2 days of right ear pain, fever, and decreased hearing. Pulling at ear. Upper respiratory infection 1 week ago. No discharge.
+
+Patient: 31-year-old female
+Chief Complaint: Right ear pain and fever
+
+Vital Signs:
+- BP: 114/66 mmHg
+- HR: 81 bpm
+- RR: 18 breaths/min
+- SpO2: 98% on room air
+- Temp: 37.3°C
+
+No labs indicated
+Diagnosis: Acute otitis media
+
+Physical Examination:
+- General: Mild fever, irritable
+- ENT: Right tympanic membrane erythematous, bulging, decreased mobility
+- No mastoid tenderness
+
+Past Medical History: Recurrent ear infections (childhood)
+Medications: None
+Allergies: Amoxicillin (rash)
+Social History: Daycare attendance

@@ -1,0 +1,9 @@
+S: 86yo female presents with Sudden dyspnea and pleuritic chest pain. The patient presents with sudden onset severe dyspnea and right-sided pleuritic chest pain 2 hours ago. Recent long-haul flight 3 days prior. Syncope on presentation.
+O: Vitals: 80/60, 151, 36, 82%, 39.7C. Exam: - General: Severe distress, diaphoretic
+- Cardiovascular: Tachycardic, hypotensive, JVD
+- Respiratory: Tachypneic, decreased breath sounds right base CT PE: Massive pulmonary embolism with right heart strain
+Troponin: Elevated
+BNP: Elevated
+D-dimer: >5000
+A: PMH: Obesity, oral contraceptive use
+P: Plan: Meds: Oral contraceptives. Allergies: No known drug allergies. Social: Recent long-distance travel

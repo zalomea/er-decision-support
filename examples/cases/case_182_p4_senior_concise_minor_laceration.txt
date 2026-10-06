@@ -1,0 +1,11 @@
+Patient: 67yo female
+CC: Laceration on left hand
+HPI: The patient presents with a laceration on the left hand sustained 1 hour ago while cutting vegetables. Bleeding controlled with direct pressure. No loss of sensation or motor function.
+VS: BP 118/65, HR 81, RR 20, SpO2 96, T 36.8
+PE: - General: Well-appearing
+- Left Hand: 2 cm laceration on palmar surface, no active bleeding, full ROM, sensation intact
+Tetanus: Up to date
+No imaging needed
+PMH: None
+Meds: None
+Allergies: No known drug allergies

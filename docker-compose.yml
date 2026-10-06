@@ -1,0 +1,56 @@
+services:
+  clef:
+    build:
+      context: ./clef-server
+      dockerfile: Dockerfile
+    volumes:
+      - clef-models:/models
+    environment:
+      LLAMA_THREADS: ${LLAMA_THREADS:-10}
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-sf", "http://localhost:5080/health"]
+      interval: 60s
+      timeout: 5s
+      retries: 3
+      start_period: 120s
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - "127.0.0.1:${BACKEND_PORT:-5001}:8000"
+    volumes:
+      - ./examples:/app/examples:ro
+    environment:
+      LLAMA_URL: http://clef:5080
+    depends_on:
+      - clef
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/health')"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 10s
+
+  frontend:
+    image: nginx:alpine@sha256:df221db836e1754089190208cee7eeda94f233197056426eda74a43ab1abeac2
+    ports:
+      - "127.0.0.1:${FRONTEND_PORT:-5081}:80"
+    volumes:
+      - ./web:/usr/share/nginx/html:ro
+      - ./web/nginx.conf:/etc/nginx/conf.d/default.conf:ro
+    depends_on:
+      - backend
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "wget", "-q", "--spider", "http://127.0.0.1/health"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 10s
+
+volumes:
+  clef-models:

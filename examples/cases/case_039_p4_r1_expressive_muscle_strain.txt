@@ -1,0 +1,24 @@
+Patient: 72-year-old male
+Chief Complaint: Lower back pain after lifting
+
+History of Present Illness:
+The patient presents with acute lower back pain after lifting heavy boxes 1 day ago. Pain is mechanical, worse with bending and lifting. No radiation to legs. No bowel/bladder changes.
+
+Vital Signs:
+- BP: 113/67 mmHg
+- HR: 92 bpm
+- RR: 15 breaths/min
+- SpO2: 96% on room air
+- Temp: 37.3°C
+
+Physical Examination:
+- General: Mild distress
+- Musculoskeletal: Paraspinal muscle tenderness, no midline tenderness, straight leg raise negative bilaterally
+
+No imaging indicated
+Diagnosis: Lumbar muscle strain
+
+Past Medical History: None.
+Medications: Ibuprofen (OTC)
+Allergies: No known drug allergies
+Social History: Sedentary job, poor lifting technique

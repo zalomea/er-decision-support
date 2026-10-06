@@ -1,0 +1,12 @@
+Pt: 35yo male
+CC: Sore throat and difficulty swallowing
+HPI: The patient presents with 3 days of sore throat, difficulty swallowing, and fever. No cough or rhinorrhea. Tender anterior cervical lymphadenopathy.
+VS: 132/79/71/16/97/36.5
+PE: - General: Mild fever
+- ENT: Erythematous pharynx, tonsillar exudates, no trismus
+- Neck: Tender anterior cervical lymphadenopathy
+Rapid strep: Positive
+Centor score: 4
+PMH: None
+Meds: None
+Allergies: No known drug allergies

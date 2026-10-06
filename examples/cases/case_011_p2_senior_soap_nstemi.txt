@@ -1,0 +1,8 @@
+S: 89yo female with Chest pain for 4 hours. The patient presents with 4 hours of intermittent substernal chest pressure, 6/10, with exertion. Relieved partially with rest. No radiation. Mild diaphoresis.
+O: Vitals: BP 108/73, HR 128, RR 28, SpO2 92%, T 38.1C. PE: - General: Mild distress
+- Cardiovascular: Regular rhythm, no murmurs
+- Respiratory: Clear lungs ECG: T-wave inversions in V4-V6
+Troponin: 0.8 (elevated)
+CXR: Normal
+A: Hypertension, diabetes
+P: Continue current management. Meds: Metformin, lisinopril, aspirin. Allergies: No known drug allergies

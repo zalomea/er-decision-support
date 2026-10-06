@@ -1,0 +1,23 @@
+Patient: 33-year-old female
+Chief Complaint: Bruise on left thigh after bumping into table
+
+No labs indicated
+Diagnosis: Simple contusion
+
+Vital Signs:
+- BP: 121/69
+- HR: 81
+- RR: 15
+- SpO2: 99
+- Temp: 36.7
+
+Physical Examination:
+- General: Well-appearing
+- Extremities: 5cm ecchymosis on left thigh, no swelling, no tenderness to palpation of bone
+
+Past Medical History: None.
+Medications: None.
+Allergies: No known drug allergies
+
+History of Present Illness:
+The patient presents with bruise on left thigh after bumping into table 2 days ago. Mild pain, no swelling. No bleeding disorders. No other bruising.

@@ -1,0 +1,12 @@
+Patient: 75yo male
+CC: Lower abdominal pain and vaginal bleeding
+HPI: The patient presents with 6 weeks of amenorrhea, sudden onset right lower quadrant pain, and vaginal spotting. Positive home pregnancy test. Pain is severe and worsening.
+VS: BP 107/67, HR 109, RR 29, SpO2 91, T 38.3
+PE: - General: Pale, appears in pain
+- Cardiovascular: Tachycardic, borderline hypotensive
+- Abdomen: Right adnexal tenderness, cervical motion tenderness
+Beta-hCG: 2500
+Transvaginal US: No intrauterine pregnancy, right adnexal mass with free fluid
+PMH: Pelvic inflammatory disease (prior)
+Meds: None
+Allergies: No known drug allergies

@@ -1,0 +1,15 @@
+- Patient: 68yo male
+- CC: Fever and flank pain
+- HPI: The patient presents with 3 days of fever, chills, right flank pain, and dysuria. Nausea with vomiting. Unable to tolerate oral intake.
+- VS: BP 109/62 | HR 109 | RR 30 | SpO2 93 | Temp 38.7
+- PE: - General: Appears uncomfortable
+- Cardiovascular: Tachycardic
+- Abdomen: Right CVA tenderness
+- Genitourinary: No discharge
+- Workup: WBC: 16,000
+Urinalysis: Positive leukocytes, nitrites, blood
+Urine culture: Pending
+CT KUB: Right hydronephrosis, 6mm stone
+- PMH: Recurrent UTIs, kidney stones
+- Meds: None
+- Allergies: No known drug allergies

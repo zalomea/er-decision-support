@@ -1,0 +1,26 @@
+Patient: 66-year-old female
+Chief Complaint: Redness and swelling on left leg
+
+History of Present Illness:
+The patient presents with 3 days of progressive redness, swelling, and warmth on the left lower leg. Minor abrasion 5 days ago. Low-grade fever. No improvement with elevation.
+
+Vital Signs:
+- BP: 110/85 mmHg
+- HR: 95 bpm
+- RR: 19 breaths/min
+- SpO2: 97% on room air
+- Temp: 37.5°C
+
+Physical Examination:
+- General: Mild fever
+- Cardiovascular: Normal
+- Extremities: Erythema, warmth, tenderness left calf, no crepitus, no fluctuance
+
+WBC: 12,000
+No abscess on exam
+Blood cultures: Not indicated
+
+Past Medical History: Diabetes mellitus, peripheral neuropathy
+Medications: Metformin, gabapentin
+Allergies: No known drug allergies
+Social History: Poor foot care, walks barefoot at home

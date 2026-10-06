@@ -1,0 +1,26 @@
+Patient: 70-year-old male
+Chief Complaint: Chest pain for 4 hours
+
+History of Present Illness:
+The patient presents with 4 hours of intermittent substernal chest pressure, 6/10, with exertion. Relieved partially with rest. No radiation. Mild diaphoresis.
+
+Vital Signs:
+- BP: 95/65 mmHg
+- HR: 102 bpm
+- RR: 28 breaths/min
+- SpO2: 94% on room air
+- Temp: 38.8°C
+
+Physical Examination:
+- General: Mild distress
+- Cardiovascular: Regular rhythm, no murmurs
+- Respiratory: Clear lungs
+
+ECG: T-wave inversions in V4-V6
+Troponin: 0.8 (elevated)
+CXR: Normal
+
+Past Medical History: Hypertension, diabetes
+Medications: Metformin, lisinopril, aspirin
+Allergies: No known drug allergies
+Social History: Smoker (10 pack-years)

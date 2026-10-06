@@ -1,0 +1,7 @@
+S: 24yo female presents with Sore throat and difficulty swallowing. The patient presents with 3 days of sore throat, difficulty swallowing, and fever. No cough or rhinorrhea. Tender anterior cervical lymphadenopathy.
+O: Vitals: 125/68, 72, 17, 99%, 36.6C. Exam: - General: Mild fever
+- ENT: Erythematous pharynx, tonsillar exudates, no trismus
+- Neck: Tender anterior cervical lymphadenopathy Rapid strep: Positive
+Centor score: 4
+A: PMH: None
+P: Plan: Meds: None. Allergies: No known drug allergies. Social: Works in office, close contact with sick coworker

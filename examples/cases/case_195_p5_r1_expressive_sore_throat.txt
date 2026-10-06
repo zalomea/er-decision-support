@@ -1,0 +1,25 @@
+Patient: 41-year-old female
+Chief Complaint: Sore throat for 2 days
+
+History of Present Illness:
+The patient presents with 2 days of sore throat, worse with swallowing. No fever, cough, or rhinorrhea. No difficulty breathing or drooling.
+
+Vital Signs:
+- BP: 121/72 mmHg
+- HR: 77 bpm
+- RR: 12 breaths/min
+- SpO2: 99% on room air
+- Temp: 37.0°C
+
+Physical Examination:
+- General: Well-appearing
+- ENT: Mild pharyngeal erythema, no exudates, no tonsillar enlargement
+- Neck: No lymphadenopathy
+
+Rapid strep: Negative
+Centor score: 1
+
+Past Medical History: None.
+Medications: None.
+Allergies: No known drug allergies
+Social History: No significant history

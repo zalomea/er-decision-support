@@ -1,0 +1,7 @@
+S: 32yo male presents with Hives and itching after medication. The patient presents with generalized urticaria and pruritus 1 hour after taking amoxicillin for sore throat. No respiratory distress, no facial swelling. No prior antibiotic exposure.
+O: Vitals: 133/82, 74, 16, 98%, 37.1C. Exam: - General: Well-appearing, mild distress
+- Skin: Generalized urticaria, no angioedema
+- Respiratory: Clear lungs, no wheezing No labs indicated
+Diagnosis: Acute urticaria, likely drug reaction
+A: PMH: None.
+P: Plan: Meds: Amoxicillin (started today). Allergies: Amoxicillin (new reaction). Social: No significant history

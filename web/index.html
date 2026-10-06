@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#0b1f33">
+    <meta name="description" content="A research prototype for evaluating AI-assisted emergency department triage workflows.">
+    <title>ED Insight — Clinical decision support research</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="lang-toggle" role="group" aria-label="Language">
+        <button type="button" id="langEn" class="active">EN</button>
+        <button type="button" id="langEs">ES</button>
+    </div>
+
+    <main class="container">
+        <header class="hero">
+            <div class="eyebrow">Clinical AI · Research prototype</div>
+            <h1>ED Insight</h1>
+            <p class="subtitle">Explore how a language model interprets emergency-care narratives for triage and disposition support.</p>
+        </header>
+
+        <aside class="safety-notice" role="note">
+            <span class="notice-icon" aria-hidden="true">⚠</span>
+            <div><strong>Research use only — not for patient care</strong>This prototype is not a medical device and must not be used to diagnose, triage, or make treatment decisions. Use fictional or de-identified examples only; never enter protected health information.</div>
+        </aside>
+
+        <div class="error" id="errorBox"></div>
+
+        <section class="input-section" aria-labelledby="reportHeading">
+            <label id="reportHeading" for="patientReport">Clinical narrative</label>
+            <p class="field-hint" id="reportHint">Paste a fictional or de-identified report, or load one of the sample cases.</p>
+            <div class="examples">
+                <button type="button" class="btn-search" id="searchBtn">Search examples</button>
+            </div>
+            <textarea id="patientReport" maxlength="40000" aria-describedby="reportHint" placeholder="Enter a fictional or de-identified patient report..."></textarea>
+            <div class="mode-switch" id="modeSwitch">
+                <button type="button" class="mode-btn active" id="fullModeBtn">Full mode</button>
+                <button type="button" class="mode-btn" id="simpleModeBtn">Simple mode</button>
+            </div>
+            <div class="actions" aria-label="Model evaluations">
+                <button type="button" class="btn-discharge" id="dischargeBtn">Disposition assessment</button>
+                <button type="button" class="btn-priority" id="priorityBtn">ESI triage estimate</button>
+                <button type="button" class="btn-both" id="bothBtn">Run both evaluations</button>
+            </div>
+        </section>
+
+        <section class="results" aria-label="Evaluation results" aria-live="polite">
+            <div class="result-card" id="dischargeCard">
+                <h3>Disposition assessment</h3>
+                <div id="dischargeContent"></div>
+            </div>
+            <div class="result-card" id="priorityCard">
+                <h3>ESI triage estimate</h3>
+                <div id="priorityContent"></div>
+            </div>
+        </section>
+        <footer class="page-footer">AI-generated output can be incomplete or incorrect. A qualified clinician must independently assess any real patient.</footer>
+    </main>
+
+    <div class="modal-overlay" id="searchModal" role="dialog" aria-modal="true" aria-labelledby="searchModalTitle" hidden>
+        <div class="modal">
+            <div class="modal-header">
+                <h2 id="searchModalTitle">Search examples</h2>
+                <button type="button" class="modal-close" aria-label="Close">&times;</button>
+            </div>
+            <div class="modal-body">
+                <input type="search" id="searchInput" placeholder="Type a keyword..." aria-label="Keyword" />
+                <div id="searchResults" class="search-results" aria-live="polite"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+    
+</body>
+</html>

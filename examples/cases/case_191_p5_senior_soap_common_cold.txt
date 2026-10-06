@@ -1,0 +1,7 @@
+S: 25yo male with Runny nose, cough, and sore throat. The patient presents with 3 days of rhinorrhea, nasal congestion, cough, and sore throat. Low-grade fever. No difficulty breathing. Symptoms improving.
+O: Vitals: BP 126/80, HR 72, RR 14, SpO2 98%, T 37.2C. PE: - General: Well-appearing
+- HEENT: Erythematous pharynx, clear rhinorrhea, no tonsillar exudates
+- Respiratory: Clear lungs No labs indicated
+Diagnosis: Viral upper respiratory infection
+A: None.
+P: Continue current management. Meds: Acetaminophen (OTC). Allergies: No known drug allergies

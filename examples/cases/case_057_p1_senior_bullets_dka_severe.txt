@@ -1,0 +1,16 @@
+- Patient: 82yo female
+- CC: Nausea, vomiting, and confusion
+- HPI: The patient presents with 3 days of polyuria, polydipsia, nausea, and vomiting. Today found confused by family. Known diabetes, stopped insulin 2 days ago due to poor oral intake.
+- VS: BP 87/54 | HR 130 | RR 39 | SpO2 89 | Temp 39.4
+- PE: - General: Dehydrated, Kussmaul breathing
+- Cardiovascular: Tachycardic, hypotensive
+- Neurological: Confused, disoriented
+- Workup: Glucose: 680 mg/dL
+pH: 7.08
+Bicarbonate: 8
+Anion gap: 28
+Ketones: Large
+Potassium: 5.8
+- PMH: Type 1 diabetes mellitus
+- Meds: Insulin (recently stopped)
+- Allergies: No known drug allergies

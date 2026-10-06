@@ -1,0 +1,6 @@
+S: 86yo male presents with Difficulty sleeping for 2 weeks. The patient presents with 2 weeks of difficulty falling and staying asleep. Fatigue during day. No snoring or witnessed apneas. Stress at work. Drinks coffee in afternoon.
+O: Vitals: 116/73, 62, 17, 99%, 36.9C. Exam: - General: Well-appearing, tired
+- Neurological: No focal deficits No labs indicated
+Diagnosis: Acute insomnia
+A: PMH: None.
+P: Plan: Meds: None.. Allergies: No known drug allergies. Social: High stress job, poor sleep hygiene

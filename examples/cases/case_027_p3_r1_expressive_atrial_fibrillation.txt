@@ -1,0 +1,27 @@
+Patient: 25-year-old male
+Chief Complaint: Palpitations and dizziness
+
+History of Present Illness:
+The patient presents with 6 hours of palpitations, irregular heartbeat, and lightheadedness. No chest pain or syncope. History of intermittent palpitations.
+
+Vital Signs:
+- BP: 122/70 mmHg
+- HR: 97 bpm
+- RR: 20 breaths/min
+- SpO2: 97% on room air
+- Temp: 37.6°C
+
+Physical Examination:
+- General: Mild distress
+- Cardiovascular: Irregularly irregular rhythm, rate 140
+- Respiratory: Clear lungs
+
+ECG: Atrial fibrillation with rapid ventricular response
+Troponin: 0.01 (normal)
+TSH: Normal
+Electrolytes: Normal
+
+Past Medical History: Hypertension, hyperthyroidism (treated)
+Medications: Lisinopril, methimazole
+Allergies: No known drug allergies
+Social History: High caffeine intake, poor sleep

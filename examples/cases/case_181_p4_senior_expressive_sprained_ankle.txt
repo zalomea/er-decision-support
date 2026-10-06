@@ -1,0 +1,23 @@
+Patient: 28-year-old female
+Chief Complaint: Right ankle pain after twisting injury
+
+History of Present Illness:
+The patient presents with right ankle pain after twisting injury while playing basketball 2 hours ago. Able to bear weight with difficulty. Swelling and bruising developing.
+
+Vital Signs:
+- BP: 112/81
+- HR: 87
+- RR: 18
+- SpO2: 96
+- Temp: 36.9
+
+Physical Examination:
+- General: Mild distress
+- Extremities: Right ankle swelling, tenderness over lateral malleolus, no bony tenderness, full range of motion with pain
+
+X-ray Right Ankle: No fracture (Ottawa rules negative)
+No ligamentous instability
+
+Past Medical History: None
+Medications: None
+Allergies: No known drug allergies

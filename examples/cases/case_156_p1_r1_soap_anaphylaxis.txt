@@ -1,0 +1,8 @@
+S: 37yo male presents with Difficulty breathing and throat tightness after eating. The patient developed facial swelling, urticaria, and difficulty breathing 30 minutes after eating shellfish. Symptoms rapidly progressing. Used EpiPen with minimal relief.
+O: Vitals: 75/60, 151, 35, 89%, 39.9C. Exam: - General: Anxious, diaphoretic
+- Cardiovascular: Tachycardic, hypotensive
+- Respiratory: Stridor, wheezing, periorbital edema
+- Skin: Generalized urticaria, angioedema Tryptase: Elevated
+No labs drawn yet - clinical diagnosis
+A: PMH: Shellfish allergy (previous mild reactions)
+P: Plan: Meds: None. Allergies: Shellfish (known). Social: No tobacco or alcohol use

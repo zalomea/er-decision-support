@@ -1,0 +1,7 @@
+S: 80yo male with Right ear pain and fever. The patient presents with 2 days of right ear pain, fever, and decreased hearing. Pulling at ear. Upper respiratory infection 1 week ago. No discharge.
+O: Vitals: BP 110/83, HR 79, RR 17, SpO2 99%, T 36.9C. PE: - General: Mild fever, irritable
+- ENT: Right tympanic membrane erythematous, bulging, decreased mobility
+- No mastoid tenderness No labs indicated
+Diagnosis: Acute otitis media
+A: Recurrent ear infections (childhood)
+P: Continue current management. Meds: None. Allergies: Amoxicillin (rash)

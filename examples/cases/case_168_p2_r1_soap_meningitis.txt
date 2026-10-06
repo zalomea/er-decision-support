@@ -1,0 +1,8 @@
+S: 30yo male presents with Fever, headache, and neck stiffness. The patient presents with 2 days of severe headache, fever, and progressive neck stiffness. Photophobia and vomiting. Roommate similar symptoms 1 week ago.
+O: Vitals: 100/64, 119, 28, 91%, 38.0C. Exam: - General: Ill-appearing, photophobic
+- Cardiovascular: Tachycardic
+- Neurological: Neck stiffness, positive Kernig's sign, no focal deficits WBC: 18,000
+CT Head: No contraindication to LP
+LP: Opening pressure 28, WBC 800 (90% PMNs), protein 120, glucose 30
+A: PMH: None
+P: Plan: Meds: None. Allergies: No known drug allergies. Social: College student, lives in dormitory

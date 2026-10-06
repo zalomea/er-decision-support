@@ -1,0 +1,11 @@
+S: 37yo male with Nausea, vomiting, and confusion. The patient presents with 3 days of polyuria, polydipsia, nausea, and vomiting. Today found confused by family. Known diabetes, stopped insulin 2 days ago due to poor oral intake.
+O: Vitals: BP 85/48, HR 141, RR 37, SpO2 88%, T 39.8C. PE: - General: Dehydrated, Kussmaul breathing
+- Cardiovascular: Tachycardic, hypotensive
+- Neurological: Confused, disoriented Glucose: 680 mg/dL
+pH: 7.08
+Bicarbonate: 8
+Anion gap: 28
+Ketones: Large
+Potassium: 5.8
+A: Type 1 diabetes mellitus
+P: Continue current management. Meds: Insulin (recently stopped). Allergies: No known drug allergies

@@ -1,0 +1,24 @@
+Patient: 72-year-old male
+Chief Complaint: Difficulty breathing for 6 hours
+
+History of Present Illness:
+The patient presents with progressive difficulty breathing over the past 6 hours. He reports a productive cough with yellow sputum for the past 3 days. He has a history of COPD and has been using his home inhaler more frequently without relief. He is unable to speak in full sentences.
+
+Vital Signs:
+- BP: 145/88 mmHg
+- HR: 118 bpm
+- RR: 32 breaths/min
+- SpO2: 88% on room air
+- Temp: 38.5°C
+
+Physical Examination:
+- General: Respiratory distress, using accessory muscles, unable to speak in full sentences
+- Respiratory: Bilateral wheezing and crackles, prolonged expiratory phase
+- Cardiovascular: Tachycardic, regular rhythm
+- Extremities: No peripheral edema
+
+Arterial Blood Gas (pending)
+Chest X-ray: Pending
+Past Medical History: COPD, hypertension, former smoker (quit 5 years ago)
+Medications: Albuterol inhaler, tiotropium, lisinopril
+Allergies: Penicillin (rash)

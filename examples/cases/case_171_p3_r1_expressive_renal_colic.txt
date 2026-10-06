@@ -1,0 +1,26 @@
+Patient: 74-year-old female
+Chief Complaint: Severe flank pain radiating to groin
+
+History of Present Illness:
+The patient presents with sudden onset severe left flank pain radiating to the groin, 8/10, colicky in nature. Nausea and vomiting. Unable to find comfortable position.
+
+Vital Signs:
+- BP: 134/79 mmHg
+- HR: 109 bpm
+- RR: 21 breaths/min
+- SpO2: 97% on room air
+- Temp: 38.5°C
+
+Physical Examination:
+- General: Restless, appears in severe pain
+- Cardiovascular: Normal
+- Abdomen: Soft, left CVA tenderness
+- Genitourinary: No discharge
+
+Urinalysis: Microscopic hematuria
+CT KUB: 5mm left ureteral stone, mild hydronephrosis
+
+Past Medical History: Kidney stones (prior episode 2 years ago)
+Medications: None.
+Allergies: No known drug allergies
+Social History: Low fluid intake, high salt diet

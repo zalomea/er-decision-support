@@ -1,0 +1,14 @@
+Patient: 29yo female
+CC: Unresponsive, found down
+HPI: Witnessed collapse 15 minutes ago. Bystander CPR initiated immediately. EMS arrived and found patient in ventricular fibrillation. Two shocks delivered with ROSC achieved.
+VS: BP 71/40, HR 125, RR 31, SpO2 85, T 39.5
+PE: - General: Unresponsive, intubated
+- Cardiovascular: Weak pulses, tachycardic
+- Respiratory: Mechanical ventilation
+- Neurological: Pupils reactive, no response to pain
+ECG: Ventricular fibrillation converted to sinus rhythm
+ABG: pH 7.18, pCO2 55, lactate 8.2
+Glucose: 180 mg/dL
+PMH: Coronary artery disease, previous MI
+Meds: Metoprolol, clopidogrel, atorvastatin
+Allergies: Penicillin

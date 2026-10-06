@@ -1,0 +1,12 @@
+Pt: 89yo female
+CC: Left lower quadrant pain and fever
+HPI: The patient presents with 3 days of left lower quadrant pain, low-grade fever, and constipation. Pain is constant and worsening. Decreased appetite.
+VS: 114/76/94/19/94/38.0
+PE: - General: Mild fever
+- Cardiovascular: Tachycardic
+- Abdomen: LLQ tenderness, no rebound or guarding
+WBC: 13,000
+CT Abdomen: Sigmoid diverticulitis with fat stranding, no abscess
+PMH: Diverticulosis (known), constipation
+Meds: Psyllium, docusate
+Allergies: No known drug allergies

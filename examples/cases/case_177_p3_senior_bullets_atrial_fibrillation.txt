@@ -1,0 +1,14 @@
+- Patient: 78yo female
+- CC: Palpitations and dizziness
+- HPI: The patient presents with 6 hours of palpitations, irregular heartbeat, and lightheadedness. No chest pain or syncope. History of intermittent palpitations.
+- VS: BP 129/70 | HR 87 | RR 18 | SpO2 96 | Temp 37.5
+- PE: - General: Mild distress
+- Cardiovascular: Irregularly irregular rhythm, rate 140
+- Respiratory: Clear lungs
+- Workup: ECG: Atrial fibrillation with rapid ventricular response
+Troponin: 0.01 (normal)
+TSH: Normal
+Electrolytes: Normal
+- PMH: Hypertension, hyperthyroidism (treated)
+- Meds: Lisinopril, methimazole
+- Allergies: No known drug allergies

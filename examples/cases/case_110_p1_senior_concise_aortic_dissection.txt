@@ -1,0 +1,13 @@
+Patient: 21yo male
+CC: Tearing chest pain radiating to back
+HPI: The patient presents with sudden onset severe 'tearing' chest pain radiating to the back 2 hours ago. Pain is maximal at onset. History of uncontrolled hypertension.
+VS: BP 80/41, HR 138, RR 33, SpO2 87, T 39.4
+PE: - General: Diaphoretic, appears in severe pain
+- Cardiovascular: BP differential between arms (180/100 right, 140/85 left)
+- Respiratory: Clear lungs
+- Neurological: Intact
+CT Angio: Type A aortic dissection involving ascending aorta
+ECG: Sinus tachycardia, no STEMI
+PMH: Hypertension (poorly controlled), Marfanoid habitus
+Meds: Amlodipine (non-compliant)
+Allergies: No known drug allergies

@@ -1,0 +1,23 @@
+Patient: 25-year-old female
+Chief Complaint: Laceration on left hand
+
+History of Present Illness:
+The patient presents with a laceration on the left hand sustained 1 hour ago while cutting vegetables in the kitchen. The wound is approximately 2 cm long, located on the palmar surface of the left hand. Bleeding has been controlled with direct pressure. No loss of sensation or motor function in the fingers.
+
+Vital Signs:
+- BP: 118/72 mmHg
+- HR: 78 bpm
+- RR: 16 breaths/min
+- SpO2: 99% on room air
+- Temp: 36.8°C
+
+Physical Examination:
+- General: Well-appearing, no distress
+- Left Hand: 2 cm laceration on palmar surface, no active bleeding, full range of motion in all fingers, sensation intact
+- Cardiovascular: Regular rate and rhythm
+- Respiratory: Clear to auscultation bilaterally
+
+Allergies: No known drug allergies
+Tetanus: Up to date (last booster 3 years ago)
+Past Medical History: None
+Medications: None

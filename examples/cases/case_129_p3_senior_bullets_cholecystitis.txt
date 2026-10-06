@@ -1,0 +1,13 @@
+- Patient: 20yo male
+- CC: Right upper quadrant pain after fatty meal
+- HPI: The patient presents with 12 hours of severe right upper quadrant pain after a fatty meal, radiating to the right scapula. Nausea and vomiting. Low-grade fever.
+- VS: BP 135/80 | HR 92 | RR 19 | SpO2 95 | Temp 37.3
+- PE: - General: Appears uncomfortable
+- Cardiovascular: Tachycardic
+- Abdomen: RUQ tenderness, positive Murphy's sign
+- Workup: WBC: 14,000
+US Gallbladder: Gallstones, wall thickening, pericholecystic fluid
+LFTs: Normal
+- PMH: Gallstones (known), obesity
+- Meds: None
+- Allergies: No known drug allergies

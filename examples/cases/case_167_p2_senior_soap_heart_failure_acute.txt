@@ -1,0 +1,9 @@
+S: 45yo female with Shortness of breath and leg swelling. The patient presents with 5 days of progressive dyspnea, orthopnea, and bilateral leg swelling. Gained 5kg in 1 week. Unable to lie flat. History of heart failure.
+O: Vitals: BP 105/66, HR 107, RR 24, SpO2 91%, T 37.9C. PE: - General: Distressed, orthopneic
+- Cardiovascular: Tachycardic, JVD, S3 gallop
+- Respiratory: Bilateral crackles to mid-lung fields
+- Extremities: Bilateral pitting edema to knees BNP: 2500
+CXR: Pulmonary edema, cardiomegaly
+Echo (prior): EF 25%
+A: Heart failure (EF 25%), hypertension, diabetes
+P: Continue current management. Meds: Furosemide, carvedilol, lisinopril, metformin. Allergies: No known drug allergies

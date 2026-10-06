@@ -1,0 +1,8 @@
+S: 78yo male with Wheezing and shortness of breath. The patient presents with 2 days of worsening wheezing, chest tightness, and shortness of breath. Using albuterol inhaler every 3 hours with partial relief. Upper respiratory infection 1 week ago.
+O: Vitals: BP 135/85, HR 110, RR 21, SpO2 95%, T 37.3C. PE: - General: Mild respiratory distress
+- Cardiovascular: Tachycardic
+- Respiratory: Bilateral wheezing, prolonged expiratory phase Peak flow: 60% of personal best
+ABG: pH 7.38, pCO2 42, pO2 78
+CXR: Hyperinflation, no infiltrate
+A: Asthma (moderate persistent)
+P: Continue current management. Meds: Albuterol, fluticasone. Allergies: Dust mites, pollen

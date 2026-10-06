@@ -1,0 +1,23 @@
+Patient: 58-year-old male
+Chief Complaint: Chest pain for 2 hours
+
+History of Present Illness:
+The patient presents with sudden onset substernal chest pain that began 2 hours ago while watching television. The pain is described as pressure-like, 8/10 in severity, radiating to the left arm and jaw. Associated symptoms include diaphoresis, nausea, and short of breath. The pain is not relieved by rest.
+
+Vital Signs:
+- BP: 160/95 mmHg
+- HR: 110 bpm
+- RR: 22 breaths/min
+- SpO2: 94% on room air
+- Temp: 37.1°C
+
+Physical Examination:
+- General: Diaphoretic, appears distressed
+- Cardiovascular: Tachycardic, regular rhythm, no murmurs
+- Respiratory: Clear to auscultation bilaterally
+- Abdomen: Soft, non-tender
+
+ECG: ST-segment elevation in leads II, III, aVF
+Troponin: Pending
+Past Medical History: Hypertension, hyperlipidemia, smoking history (30 pack-years)
+Medications: Lisinopril, atorvastatin

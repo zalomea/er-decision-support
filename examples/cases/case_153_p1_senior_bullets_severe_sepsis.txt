@@ -1,0 +1,16 @@
+- Patient: 64yo male
+- CC: Fever and confusion for 2 days
+- HPI: The patient presents with 2 days of fever, chills, and progressive confusion. Found at home by family member. Last seen normal 48 hours ago. Possible urinary source.
+- VS: BP 83/43 | HR 135 | RR 34 | SpO2 88 | Temp 39.5
+- PE: - General: Ill-appearing, confused
+- Cardiovascular: Tachycardic, hypotensive
+- Respiratory: Tachypneic, clear lungs
+- Skin: Warm, flushed, petechiae on trunk
+- Workup: WBC: 22,000
+Lactate: 5.8
+Creatinine: 2.4
+Urinalysis: Positive leukocytes, nitrites
+Blood cultures: Pending
+- PMH: Diabetes mellitus, recurrent UTIs
+- Meds: Metformin, insulin
+- Allergies: Sulfa drugs

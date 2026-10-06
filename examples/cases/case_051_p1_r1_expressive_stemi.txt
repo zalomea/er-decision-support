@@ -1,0 +1,26 @@
+Patient: 59-year-old female
+Chief Complaint: Chest pain for 1 hour
+
+History of Present Illness:
+The patient presents with sudden onset substernal chest pain that began 1 hour ago. The pain is described as pressure-like, 9/10 in severity, radiating to the left arm and jaw. Associated symptoms include diaphoresis, nausea, and dyspnea.
+
+Vital Signs:
+- BP: 84/54 mmHg
+- HR: 133 bpm
+- RR: 36 breaths/min
+- SpO2: 89% on room air
+- Temp: 40.1°C
+
+Physical Examination:
+- General: Diaphoretic, appears distressed
+- Cardiovascular: Tachycardic, regular rhythm
+- Respiratory: Mild bilateral crackles
+
+ECG: ST-segment elevation in leads V1-V4
+Troponin: Elevated
+CXR: Mild pulmonary congestion
+
+Past Medical History: Hypertension, hyperlipidemia, smoking history
+Medications: Aspirin, atorvastatin, lisinopril
+Allergies: No known drug allergies
+Social History: Smoker (20 pack-years), occasional alcohol

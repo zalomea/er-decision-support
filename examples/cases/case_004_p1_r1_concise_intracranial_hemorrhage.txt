@@ -1,0 +1,13 @@
+Pt: 61yo male
+CC: Sudden severe headache and vomiting
+HPI: The patient presents with sudden onset 'worst headache of life' 2 hours ago while at rest. Associated with vomiting and progressive drowsiness. No history of trauma.
+VS: 72/52/126/33/87/39.7
+PE: - General: Drowsy but arousable
+- Cardiovascular: Hypertensive
+- Neurological: Left-sided weakness, neck stiffness, photophobia
+CT Head: Large right-sided intracerebral hemorrhage with midline shift
+INR: 1.0
+Platelets: 220,000
+PMH: Hypertension (non-compliant)
+Meds: None (non-compliant with antihypertensives)
+Allergies: No known drug allergies

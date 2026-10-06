@@ -1,0 +1,11 @@
+Patient: 40yo female
+CC: Eye discomfort and redness with contact lens use
+HPI: The patient presents with 1 day of right eye discomfort, redness, and foreign body sensation. Contact lens wearer, slept in lenses last night. No vision changes.
+VS: BP 117/77, HR 60, RR 14, SpO2 99, T 36.5
+PE: - General: Well-appearing
+- Eyes: Right conjunctival injection, no corneal staining with fluorescein, visual acuity normal
+No labs indicated
+Diagnosis: Contact lens-related irritation
+PMH: Myopia, contact lens wearer
+Meds: Artificial tears
+Allergies: No known drug allergies

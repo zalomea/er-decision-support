@@ -1,0 +1,6 @@
+83yo male presenting with Unresponsive, found down. Witnessed collapse 15 minutes ago. Bystander CPR initiated immediately. EMS arrived and found patient in ventricular fibrillation. Two shocks delivered with ROSC achieved. Vitals stable/unstable: BP 72/48, HR 146, RR 33, SpO2 90%, T 39.0C. On exam: - General: Unresponsive, intubated
+- Cardiovascular: Weak pulses, tachycardic
+- Respiratory: Mechanical ventilation
+- Neurological: Pupils reactive, no response to pain ECG: Ventricular fibrillation converted to sinus rhythm
+ABG: pH 7.18, pCO2 55, lactate 8.2
+Glucose: 180 mg/dL PMH significant for Coronary artery disease, previous MI. Currently on Metoprolol, clopidogrel, atorvastatin. Allergies: Penicillin. Social: Former smoker, sedentary lifestyle

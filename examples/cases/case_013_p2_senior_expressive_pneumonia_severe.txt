@@ -1,0 +1,27 @@
+Patient: 72-year-old male
+Chief Complaint: Fever, cough, and difficulty breathing
+
+History of Present Illness:
+The patient presents with 4 days of fever, productive cough, and worsening shortness of breath. Now unable to walk without severe dyspnea. Decreased oral intake.
+
+Vital Signs:
+- BP: 102/72
+- HR: 119
+- RR: 29
+- SpO2: 94
+- Temp: 38.2
+
+Physical Examination:
+- General: Ill-appearing, dehydrated
+- Cardiovascular: Tachycardic
+- Respiratory: Crackles right lower lobe, dull to percussion
+- SpO2: 88% on room air
+
+CXR: Right lower lobe consolidation with effusion
+WBC: 18,000
+Lactate: 2.8
+Blood cultures: Pending
+
+Past Medical History: COPD, diabetes
+Medications: Albuterol, metformin
+Allergies: Penicillin (rash)

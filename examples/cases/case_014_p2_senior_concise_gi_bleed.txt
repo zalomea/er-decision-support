@@ -1,0 +1,14 @@
+Patient: 19yo male
+CC: Vomiting blood and black stools
+HPI: The patient presents with 2 episodes of hematemesis and melena for 2 days. Feels dizzy on standing. History of NSAID use for chronic back pain.
+VS: BP 107/68, HR 124, RR 27, SpO2 90, T 38.2
+PE: - General: Pale, diaphoretic
+- Cardiovascular: Tachycardic, orthostatic hypotension
+- Abdomen: Soft, non-tender, no masses
+Hemoglobin: 7.2 (baseline 13)
+INR: 1.0
+BUN/Cr ratio: 35
+Type and crossmatch: Done
+PMH: Chronic back pain, osteoarthritis
+Meds: Ibuprofen 800mg TID, acetaminophen
+Allergies: No known drug allergies

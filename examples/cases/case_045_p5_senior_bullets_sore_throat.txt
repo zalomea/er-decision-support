@@ -1,0 +1,12 @@
+- Patient: 26yo female
+- CC: Sore throat for 2 days
+- HPI: The patient presents with 2 days of sore throat, worse with swallowing. No fever, cough, or rhinorrhea. No difficulty breathing or drooling.
+- VS: BP 116/80 | HR 76 | RR 15 | SpO2 99 | Temp 37.1
+- PE: - General: Well-appearing
+- ENT: Mild pharyngeal erythema, no exudates, no tonsillar enlargement
+- Neck: No lymphadenopathy
+- Workup: Rapid strep: Negative
+Centor score: 1
+- PMH: None.
+- Meds: None.
+- Allergies: No known drug allergies
